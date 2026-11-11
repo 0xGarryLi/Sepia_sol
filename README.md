@@ -113,7 +113,7 @@ deployments/          program and mint addresses per cluster (empty until launch
 | --- | --- |
 | Chain | Solana mainnet-beta |
 | Program | `sepia` (Anchor 0.30.1) · address in [deployments/](deployments/) after deploy |
-| Token | `$SEPIA`, SPL, 6 decimals, 1,000,000,000 supply, launched on pump.fun |
+| Token | `$SEPIA`, SPL, 6 decimals, 1,000,000,000 supply, launched on pump.fun; mint: [`Dd2kfPnDFs6saPeAo6JL84HB1MBHJnsF6nHNEy1Mpump`](https://solscan.io/token/Dd2kfPnDFs6saPeAo6JL84HB1MBHJnsF6nHNEy1Mpump) |
 | Wallets | Phantom, Solflare, Backpack, any Wallet Standard wallet |
 | Explorer | [solscan.io](https://solscan.io) |
 
